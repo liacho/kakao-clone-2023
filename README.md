@@ -1,1 +1,3 @@
-# Nomadcoders_Kokoa Clone 2023 Update
+# Kokoa Clone 2023 Update
+
+Supported by Nomadcoders
